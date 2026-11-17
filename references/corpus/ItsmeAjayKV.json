@@ -1,0 +1,200 @@
+{
+  "handle": "ItsmeAjayKV",
+  "count": 21,
+  "tweets": [
+    {
+      "id": "2106745466587422815",
+      "ts_ms": 1791122235000,
+      "text": "Nothing to change here. https://t.co/Il1YS0IXL2",
+      "likes": 1777,
+      "retweets": 73,
+      "handle": "ItsmeAjayKV",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122591953821085837",
+      "ts_ms": 1794900332000,
+      "text": "How big are \"flash\" models ?\n\nI plotted sizes of some recently released flash models.\n\nDeepSeek-v4.1-flash is the biggest out of the bunch, while Qwen3.8-flash-next is the smallest.\n\nThe oldest and most used model (locally) among this is also Qwen3.8-flash-next.\n\nNow all eyes are https://t.co/zORnCZLJam",
+      "likes": 10,
+      "retweets": 0,
+      "handle": "ItsmeAjayKV",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122560638375653751",
+      "ts_ms": 1794892866000,
+      "text": "I'm back testing Qwen3.8-flash-next again!\n\nWhat a great model it still is. n-gram made it possible so it can run on most system local ai community already has.\n\nI hope Qwen4-Flash is around same size as Qwen3.8-flash. But knowing that flash models are all bigger now, cannot",
+      "likes": 39,
+      "retweets": 1,
+      "handle": "ItsmeAjayKV",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122534168513098173",
+      "ts_ms": 1794886555000,
+      "text": "I think Qwen4-27b can beat Hy4-flash easily !!\n\nWe just need to get it now 😌",
+      "likes": 31,
+      "retweets": 1,
+      "handle": "ItsmeAjayKV",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122481844578881884",
+      "ts_ms": 1794874080000,
+      "text": "Another example !\n\nIn one-shot, it's clear that DeepSeek-v4.1-flash-1017 is the king !!\n\nEven Hy4 doesn't came close in some tests, and Hy4-flash is falling short.\n\nthink 12,373 · answer 4,953 · out 17,326\nvs\nthink 75,402 · answer 18,781 · out 94,183 for deepseek ! https://t.co/a5wULeGkwN",
+      "likes": 21,
+      "retweets": 0,
+      "handle": "ItsmeAjayKV",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "text": "How big are \"flash\" models ?\n\nI plotted sizes of some recently released flash models.\n\nDeepSeek-v4.1-flash is the biggest out of the bunch, while Qwen3.8-flash-next is the smallest.\n\nThe oldest and most used model (locally) among this is also Qwen3.8-flash-next.\n\nNow all eyes are",
+      "time_label": "1h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "6 replies, 17 likes, 1.1K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Another example !\n\nDeepSeek-v4.1-flash is still the best cheap open model out there !\n\nHy4-flash is fast and very token efficient, but in three.js atleast it's build lacks substance.\n\nIn this example, the terrain is completely flat in hy4-flash, the placement is bit wrong.",
+      "time_label": "11h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "3 replies, 2 reposts, 19 likes, 1.6K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Gemini 4 Neon spotted 👀\n\nWhat do you mean there are more models to Gemini 4 family !!!\n\nKeep em coming 🔥",
+      "time_label": "12h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "1 replies, 18 likes, 904 views",
+      "source": "screenshot"
+    },
+    {
+      "text": "This looks insane !\n\n@loktar00 game \"SEND MORE MEN\" is here, available for wishlist in Steam !\n\nA sandbox of battles up to 1,000 men where every soldier thinks for himself. Pick any army from any era, from Roman legions to orcs to sci-fi squads, set them on any field, then watch",
+      "time_label": "12h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "1 replies, 20 likes, 948 views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Hy4-Flash vs DeepSeek-v4.1-Flash-1017 !\n\nLeft: deepseek-v4.1-flash-1017 (high)\nRight: hy4-flash (high)\n\nBoth one-shot, no harness, no tool calls, same prompt to create a mechanical flying dragonfly !\n\nTwo flash models, but way different token count for same task.\n\nLooking at the",
+      "time_label": "13h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "6 replies, 7 reposts, 93 likes, 9.6K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Awesome !\n\nHy4-flash is 50% off on openrouter\n\nOpencode experience was not smooth for me so i switched to this first, getting model 50% off cannot come at a better time.\n\nIf you're wondering how fast it is, look no further\n\nI'm getting tasks done very quickly now !!",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "1 replies, 1 reposts, 10 likes, 7.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "If you're a dev, use the api directly!!\n\nNo rate limits and enjoy crazy value out of deepseek-v4.1-flash-1017 !!",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "3 replies, 47 likes, 1.7K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Hy4-flash is really fast !!\n\npeak 200 tok/s and avg around 180 tok/s🔥\n\nI love it when flash models show their flashiness !!\n\nNow it's time to see how good it is compared to deepseek-v4.1-flash-1017",
+      "time_label": "17h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "13 replies, 119 likes, 3.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I still hold on to my 3060 for same reason !\n\nInsane value for money card right there, and you can find more of them than 3090s.\n\n3060s + 64GB with Strata/Maya is🔥",
+      "time_label": "20h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "1 replies, 12 likes, 1K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "We have a new open flash model build specifically for research tasks that require multiple rounds of analysis and verification.\n\nSage-S2.1-Flash\n- Total 320B\n- Activated 18B\n- Native multimodal\n- GLM-5.3-Flash architecture\n- MIT License\n\nTargeted benchmarks shows it's better",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "8 replies, 9 reposts, 181 likes, 10K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Progress seems to have slowed down, but remember Qwen4-max is same size as Qwen3.8-2.4T, with additional n-gram and fewer activated parameters.\n\nWhat we have is a better, efficient model !\n\nThis shows Qwen and other Chinese labs will find ways to improve with each release.",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "19 replies, 1 reposts, 103 likes, 5K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "You heard it !!\n\n@UnslothAI Qwen4-27B (and other model) GGUF will be the best ones available, developed on a newer version of Unsloth Dynamic 3.1 !\n\nI'm already eyeing UD-Q4_K_M for my RTX 3090 !!!\n\nCannot wait to download and run it !!",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "15 replies, 4 reposts, 193 likes, 9.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "If you're on local AI, don't forget to take care of you GPUs from time to time !!\n\nMy RTX 3090 is running at-least 20hrs a day. So i do a bi monthly service, just cleaning up, making sure things are right.\n\nIf you want to know more, then you can watch this video by @gospaceport !",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "9 replies, 8 reposts, 131 likes, 7.1K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Qwen3.8-flash-next > GLM-5.3-Flash ?\n\nAA Intelligence Index has also updated score for Qwen3.8-flash-next.\n\nAnd it scores a point more than GLM-5.3-Flash, i mean it's only a point, but imo glm-5.3-flash is better than qwen3.8-fn.\n\nNot really sure how they are testing it to be",
+      "time_label": "22h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": true,
+      "metrics": "28 replies, 3 reposts, 110 likes, 8.6K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I guess it's time to test @TencentHunyuan Hy4 flash instead !\n\nIt looks cheaper compared to DeepSeek-v4.1-flash-1017 !\n\nThat's a bold claim, let's see if it holds up !",
+      "time_label": "23h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "5 replies, 22 likes, 1.8K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Just woke up to see my tests have failed cause provider is busy 😭\n\nGuess Qwen4-max is popular lol",
+      "time_label": "23h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "5 replies, 1 reposts, 35 likes, 3.1K views",
+      "source": "screenshot"
+    }
+  ]
+}

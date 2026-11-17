@@ -1,0 +1,319 @@
+{
+  "handle": "MiaAI_lab",
+  "count": 34,
+  "tweets": [
+    {
+      "id": "2121882355602501719",
+      "ts_ms": 1794731150000,
+      "text": "https://t.co/4GQntopg39",
+      "likes": 4764,
+      "retweets": 565,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122591573892374642",
+      "ts_ms": 1794900241000,
+      "text": "I'm gonna buy this phone.",
+      "likes": 33,
+      "retweets": 1,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122356975036190765",
+      "ts_ms": 1794844308000,
+      "text": "do yourself a favour and just pre order this https://t.co/8uHBSyu7LS",
+      "likes": 7,
+      "retweets": 0,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122475072577589627",
+      "ts_ms": 1794872465000,
+      "text": "Looks like I'll be testing another fine-tuned GLM 5.3 Flash\n\nSwift 1.5 GLM-5.3-Flash\n\nPromises to use use 57.7% fewer thinking tokens, with a 2.4x speed up while keeping the accuracy loss <1% vs base on max reasoning effort.\n\nhttps://t.co/DtzorwTkhL",
+      "likes": 129,
+      "retweets": 2,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122470724614926732",
+      "ts_ms": 1794871429000,
+      "text": "Here're some fine-tuned GLM 5.3 Flash models currently on Hugging Face. I'll be testing Sage-S2.1-Flash tomorrow. https://t.co/gYkLpqeim8",
+      "likes": 89,
+      "retweets": 3,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122456723411591554",
+      "ts_ms": 1794868090000,
+      "text": "The more time passes, the stronger my conviction gets... I'm afraid winter is coming (or already here) for new Chinese open models.\n\nThey need to find new ways to make their models better. 2026 isn't over yet, but imo the legendary run open models have had this year is over, and",
+      "likes": 373,
+      "retweets": 5,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2121537898092577149",
+      "ts_ms": 1794649025000,
+      "text": "Rumors say GLM 5.5 is going to be around 2-3T params. If that's true, GLM 5.3 might be the best model you can run locally for a long time.\n\nIt's no secret Chinese labs are having a rough time releasing models as exciting as before. We all know why.\n\nThat's why I'm investing a lot",
+      "likes": 991,
+      "retweets": 31,
+      "handle": "MiaAI_lab",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "text": "@sethforprivacy @vikrantnyc what do you think?",
+      "time_label": "14m",
+      "is_reply": true,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "190 views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Looks like I'll be testing another fine-tuned GLM 5.3 Flash\n\nSwift 1.5 GLM-5.3-Flash\n\nPromises to use use 57.7% fewer thinking tokens, with a 2.4x speed up while keeping the accuracy loss <1% vs base on max reasoning effort.\n\nhuggingface.co/ukisai/Swift1.…",
+      "time_label": "9h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "15 replies, 4 reposts, 131 likes, 8.4K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I think it's time for American Labs to shine 🇺🇸\n\nI truly want that to happen.",
+      "time_label": "13h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "10 replies, 8 reposts, 123 likes, 5.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Testing Inkling-2-Small, frontend and backend.\n\nWill report! ☝️",
+      "time_label": "14h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "17 replies, 5 reposts, 182 likes, 11K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Sage-S2.1-Flash is a fine-tuned GLM 5.3 Flash. If it actually performs better, we might have something here.",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "10 replies, 4 reposts, 165 likes, 9.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "This model is using GLM-5.3-Flash's architecture 👀\n\nI'll check it out",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "12 replies, 6 reposts, 133 likes, 16K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I asked Hy4-Flash to create 100 HTML files.\n\nThe rules were simple:\n- look stunning\n- zero repetitive designs\n- go full creative mode\n\nThis model is good at frontend, but not very creative.\n\nIt's not great at coming up with things on its own. Your best bet is to give it a proper,",
+      "time_label": "17h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "15 replies, 2 reposts, 107 likes, 10K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "3 days of testing. 12 different quants ‼️\n\nThe best GLM 5.3 quant for 4x DGX Sparks is @wrldsuksgo2mars's K4!\n\nHis quant beats Nvidia's NVFP4 by staying closer to BF16 while being much smaller, so it fits more comfortably on 4 Sparks.\n\nI tested about six 2.75-3 bpw quants, and",
+      "time_label": "19h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": true,
+      "metrics": "32 replies, 16 reposts, 231 likes, 15K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "HF link to K4:",
+      "time_label": "19h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "1 repost, 18 likes, 2.7K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "The most important part of this post is that they're releasing open weights for multiple smaller Qwen4 models.\n\nThat likely means Qwen4-27B and Qwen4-Flash-Next.\n\nQwhen though?",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "32 replies, 19 reposts, 485 likes, 16K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "This is Hy4 Flash btw 🔥\n\n- 224B total parameters and 12B active\n- Should fit 2x DGX Sparks!\n\nOpen-weights will be released soon!",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "57 replies, 21 reposts, 438 likes, 25K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Why release GTA 6 on consoles first when PC is so much better? It's so stupid.\n\nControllers suck.",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "99 replies, 5 reposts, 420 likes, 26K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I'm prospering this as I found an issue in my test setup that could skew the comparison. Want to be 100% sure before posting.",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "7 replies, 1 repost, 78 likes, 10K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "postponing!",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "6 likes, 2.9K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "GLM 5.3 Flash completely fails at this.\n\nThe result is unusable. I'm not even going to post it 😅\n\nIf you're using Blender for these kinds of videos, DeepSeek V4.1 Flash is FAR better.",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "50 replies, 12 reposts, 410 likes, 27K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "The unreleased Flash model is... impressive 👀\n\nFor comparison, here is Fable 5.1 on the same prompt: miaai-lab.github.io/Fable-5.1-100-…\n\nFull prompt below.",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "98 replies, 17 reposts, 539 likes, 77K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Full prompt:\n\nCreate a single self-contained HTML page that renders a rotating spiral galaxy made of tens of thousands of particles on a full-viewport 2D canvas, presented as a quiet astronomical observatory instrument. The page is pure black (#000000) with a very faint starfield",
+      "time_label": "Nov 16",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": true,
+      "metrics": "4 replies, 2 reposts, 40 likes, 7.7K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Welcome to TensorFold.",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "8 replies, 1 repost, 123 likes, 11K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Another great TensorFold update 🔥",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "5 replies, 2 reposts, 75 likes, 8K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Taking pride in getting blocked by @theo is silly. That shouldn't be your goal. T3 Code is awesome, I'm using it myself.\n\nEven if someone is against local AI, that's their opinion. Doesn't mean we can't be civilized about it and discuss things.",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "65 replies, 12 reposts, 544 likes, 39K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Can also be a good way to make money and buy more GPUs. Just sayin.\n\nThat's the same thing as paying for Claude sub to improve local models. I don't see anyone saying it's a crime.",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "28 replies, 163 likes, 15K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "btw, no ADHD is a disadvantage in AI",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "53 replies, 33 reposts, 620 likes, 28K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "I got access to a new unreleased flash model 👀\n\nIt's surprisingly good!!!",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "114 replies, 14 reposts, 957 likes, 98K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Not Qwen and not GLM",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "11 replies, 1 repost, 122 likes, 12K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "We have a winner! 🔥🔥\n\nWill share results tomorrow!!",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "14 replies, 12 reposts, 224 likes, 28K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Testing GLM 5.3 BF16 vs 6 different GLM 5.3 quants, including NVIDIA's NVFP4, EXL3s, and others. I won't compromise on quality on this one.\n\nI'll use the absolute best, even if it costs speed.",
+      "time_label": "Nov 15",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "33 replies, 11 reposts, 312 likes, 37K views",
+      "source": "screenshot"
+    },
+    {
+      "text": "Here's the DeepSeek V4.1 Flash 1017 result.\n\nDisappointing...\n\nNext up is GLM 5.3 Flash. Will post once it's ready.\n\nThanks to @MrTacticalX for the full prompt",
+      "time_label": "Nov 14",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": true,
+      "metrics": null,
+      "source": "screenshot"
+    }
+  ]
+}

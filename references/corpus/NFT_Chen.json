@@ -1,0 +1,385 @@
+{
+  "handle": "NFT_Chen",
+  "count": 41,
+  "tweets": [
+    {
+      "id": "2092248643935875507",
+      "ts_ms": 1787665923000,
+      "text": "🚨听完Tibo最新访谈之后，GPT-Astra将是颠覆性的存在！\n\nOpenAI Codex负责人Tibo最新说了句狠话：“现在的Codex，2-3个月后就会显得很原始。”\n\n下一代模型GPT-Astra将会直接把笔记本算力打成瓶颈，Agent必须上云。",
+      "likes": 1179,
+      "retweets": 134,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122607799977083288",
+      "ts_ms": 1794904110000,
+      "text": "🚨真香预警！OpenCode 直接发大招：只要 $10，就能拿到 $100 的 GLM 5.3 超高用量！\n\nOpenCode Go 订阅用户全员可领，限时福利直接拉满！\n\n开发者的钱包终于可以喘口气了，赶紧冲！\n\n详见：https://t.co/6BIQsciQER\n\n#OpenCode #GLM53 #AICoding #开发者福利 #真香时刻 #智谱 #唐杰 https://t.co/V23rsjvOR2",
+      "likes": 9,
+      "retweets": 4,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122600875562537329",
+      "ts_ms": 1794902459000,
+      "text": "Operation GLM Phase 1\n\n$100 of GLM 5.3 usage for $10\n\navailable to all OpenCode Go subscribers",
+      "likes": 835,
+      "retweets": 50,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122603466766028938",
+      "ts_ms": 1794903077000,
+      "text": "💥太强了！Anthropic工程师Addy爆料：Claude已自己写+审团队90%代码，还带防卡死机制！普通人该怎么用？\n\nClaude Code内部几乎靠AI自己写、自己验、自己修，对普通人意义：\n\n🔹AI不再“生成完你测”，而是强制自检（端到端测试+审查），你只定“什么叫完成”\n\n🔹连续拦两次后第三次放行，防止死循环 https://t.co/PbakiPqx3r",
+      "likes": 14,
+      "retweets": 4,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122590683055993308",
+      "ts_ms": 1794900029000,
+      "text": "https://t.co/kDq6v96sCy",
+      "likes": 565,
+      "retweets": 65,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122594371275272612",
+      "ts_ms": 1794900908000,
+      "text": "🤣我去！正当 Gemini 与 Claude 激烈角逐的时候，Anthropic直接把DeepMind 首席战略官给撬了！\n\nJas Sekhon 是前DeepMind CSO，现在专职给Claude做“认知严谨性”教练，专门教AI怎么量化自己的无知。\n\nGemini：我今天又刷了个新SOTA\n Claude：我今天又更清楚自己哪里不行了 https://t.co/E33pEErHzj",
+      "likes": 18,
+      "retweets": 4,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122460665407525045",
+      "ts_ms": 1794869030000,
+      "text": "I am excited to share that I have joined Anthropic. I am working to ensure that Claude practices and values epistemic rigor. This continues my long-standing interest in research methodology: how we learn what we know, and how we quantify what we do not.\n\nI am grateful to",
+      "likes": 660,
+      "retweets": 22,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2122589181969047742",
+      "ts_ms": 1794899671000,
+      "text": "🔥重磅！美团正式发布并开源 LongCat-Video-Avatar 1.6 ！仅一张图+一段音频即可生成超10分钟稳定数字人！\n\n开源数字人赛道再被美团 LongCat 团队抬高门槛，1.6 版重点解决“越说越崩”的痛点，嘴型更自然、长视频更稳，人工评测直接排到第二。\n\n主要亮点： https://t.co/qUDianBTjG",
+      "likes": 11,
+      "retweets": 4,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2119810010415018299",
+      "ts_ms": 1794237065000,
+      "text": "🚨重磅！美团LongCat-2.5正式开源权重了！MIT协议直接下！\n\n🔹1.6T总参数 / ~48B激活的原生多模态MoE\n\n🔹视觉+智能体编程一体，长程任务能力大幅提升\n\n🔹复杂项目构建、创意设计、3D任务都能玩\n\n主模型：https://t.co/6kg7hXFv67\n\nW4A4量化版：https://t.co/icdX682VGS\n\n#LongCat25 #开源大模型 https://t.co/EWqEj2KrOD",
+      "likes": 32,
+      "retweets": 6,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "id": "2119793531393040462",
+      "ts_ms": 1794233136000,
+      "text": "We’re releasing the weights for LongCat-2.5 today.\n· 1.6T total parameters, ~48B active, natively multimodal\n· Stronger visual understanding and agentic coding in one model\n· From complex coding projects to creative design and 3D tasks\nReleased under MIT. Weights are on Hugging https://t.co/jmEvS1Q7E7",
+      "likes": 1089,
+      "retweets": 125,
+      "handle": "NFT_Chen",
+      "source": "api",
+      "truncated": false
+    },
+    {
+      "text": "🔥关键澄清！美商务部+司法部联合声明：黄乐的公司Megaspeed早在2025年6月就被英伟达列入禁售名单！黄仁勋似乎太冤了！\n\n时间线打脸式曝光：\n1️⃣调查2024年启动，怀疑Megaspeed转移受限芯片\n2️⃣2025年5月当局向英伟达索取销售记录\n3️⃣",
+      "time_label": "21m",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论6 转推3 喜欢12 浏览747",
+      "source": "screenshot"
+    },
+    {
+      "text": "来源：",
+      "time_label": "21m",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "转推1 喜欢4 浏览186",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨真香预警！OpenCode 直接发大招：只要 $10，就能拿到 $100 的 GLM 5.3 超高用量！\n\nOpenCode Go 订阅用户全员可领，限时福利直接拉满！\n\n开发者的钱包终于可以喘口气了，赶紧冲！\n\n详见：opencode.ai/console/go\n\n#OpenCode #GLM53 #AICoding #开发者福利 #真香时刻 #智谱 #唐杰",
+      "time_label": "46m",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "评论8 转推4 喜欢14 浏览2K",
+      "source": "screenshot"
+    },
+    {
+      "text": "记者追问是否会跟习近平当面提黄仁勋与中国女商人（疑似间谍）一事？\n\n川普回复说：“我可能会。”\n\n#川普 #习近平 #黄仁勋 #Nvidia #中美关系",
+      "time_label": "2h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": false,
+      "metrics": "评论5 转推4 喜欢14 浏览1.6K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🔥杀气腾腾！腾讯总办最新刊发内部文章：现在已经不是和平年代了！生死关头剑指卷死DeepSeek！\n\n马化腾、刘炽平在LinkTime上罕见重锤回应AI冲击，腾讯文化正式发布《总办号召 AI 时代再创业，“心态归零”》。核心就一句话：智能革命是生死存亡问题，不拥抱就被颠覆！\n\n要点拆解：\n1️⃣生死存亡，浪已杀到",
+      "time_label": "2h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论11 转推4 喜欢15 浏览3.6K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🤨炸了！新美国开源模型 Maxwell-V1-Flash竟然碾压 Qwen3.6-35B-A3B！从零训练，不是Qwen微调！\n\n35B总参/3B激活，Apache 2.0开源，权重仅~73.6GB，轻松塞进单卡128GB DGX Spark。\n\n性能亮点：\n🔹Terminal-Bench 58.65（Qwen 47.42）｜SWE-bench Verified 65.4（Qwen 63.4）\n\n🔹BrowseComp 76.3（Qwen",
+      "time_label": "3h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论13 转推14 喜欢78 浏览5.9K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨起猛了！Google又在偷偷埋模型了！Gemini 网页端和Antigravity 同时冒出两个新模型代号！\n\n1️⃣gemini-4-neon\n🔹出现在 Gemini 网页版代码中，目前仅代码引用，暂无公开访问\n🔹同期新增用户层级「NEON」，排在 Basic / Pro / Ultra 之后\n🔹疑似面向更高阶用户的新模型或特殊访问权限\n\n2️⃣",
+      "time_label": "4h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论8 转推4 喜欢21 浏览3.7K",
+      "source": "screenshot"
+    },
+    {
+      "text": "💥划重点！Qwen4-Max 全新架构是这次真正的狠活！把 Agent 的 Token 账单直接砍掉50%！\n\n实测数据：同样控xhigh推理档位，平均每次尝试从近 29 万 Token 直接掉到 15 万，基准分数却涨了近 10 分。Agent 成本公式就俩变量，单 Token 算力 + Token 数量，这一代两个同时往下压。",
+      "time_label": "4h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论11 转推6 喜欢36 浏览3.1K",
+      "source": "screenshot"
+    },
+    {
+      "text": "Dario之所以对黄仁勋风波幸灾乐祸！因为他成了最大赢家！\n\n英伟达大股东Brad Gerstner最新爆料：\n\n他上周短信Jensen，对方回复“我深感抱歉”。\n\n基金已大幅减持NVDA股票，转向重仓50亿美元参与Anthropic IPO，他有史以来最大单！。\n\n大资金正从芯片层转向模型层。\n\nJensen个人风波后，AI新王正在加冕！",
+      "time_label": "5h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论3 转推4 喜欢15 浏览4.8K",
+      "source": "screenshot"
+    },
+    {
+      "text": "超级松弛！Grok Bot工程师边走路边教普通用户怎么用！\n\n别再只会傻傻聊天了，现在这样玩才香：\n1️⃣直接把Bot拉进你的会议，它会自动听、记重点、会后整理\n\n2️⃣不用你天天催，它会自己主动干活（写报告、跟进任务）\n\n3️⃣用得越多它越懂你，越用越聪明\n\n4️⃣速度飞快，反应比以前快一截",
+      "time_label": "12h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论4 转推6 喜欢17 浏览2.7K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨卧槽！DeepSeek V4-Pro 指纹发生重大跳变！V4.1 Pro 越来越近了！\n\n今天监控数据显示，DeepSeek 后台突然收敛灰度：\n\n🔹原先 A/B 双指纹状态正式结束，现已全量稳定切换到新指纹\n\n🔹实测确认原生支持 reasoning_content 深度思维链\n\n🔹1M 超长上下文同步就绪，接口响应稳定",
+      "time_label": "12h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论12 转推9 喜欢75 浏览13K",
+      "source": "screenshot"
+    },
+    {
+      "text": "Grok Bot 也太狂了吧？毫无违和感！\n\n直接把拉斯维加斯 Sphere 变成自己的巨型广告牌！\n\n蓝色大脸 + 赛车头盔造型，F1 周直接封神。\n\n每一个司机都需要自己的车队\n\nGrok Bot 说：我就是你的全天候 Crew。\n\n这波营销，格局打开了。\n\n#GrokBot #SphereLasVegas #xAI #F1LasVegas #AIAgent",
+      "time_label": "12h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论6 转推7 喜欢21 浏览5.1K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🤯牛逼！开源AI又赢麻了！Qwen3.8 27B、DeepSeek V4.1 Flash 这些本地量化版模型，现在普通人现在也能超方便调用了！\n\nHugging Face 和 OpenRouter 正式联手：\n✅在HF直接用OpenRouter超稳推理\n✅开源模型权重一键直达\n✅Agent调用记录还能存回HF，方便微调分享",
+      "time_label": "13h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": null,
+      "source": "screenshot"
+    },
+    {
+      "text": "🤨真假的？！Sam Altman 今天亲口承认：“我们以前没有AGI，现在有了。”\n\n然后立刻解释为什么GPT-6.2 Astra被搁置\n\n因为他们已经能让AI无人监管地设计下一代并快速自我迭代，但这样做不够安全。\n\nOpenAI 正在故意把不受控制的RSI按住。\n\n真正的天花板不是技术，是他们自己不敢放手。\n\n#GPT6 #Astra",
+      "time_label": "13h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论13 转推8 喜欢42 浏览16K",
+      "source": "screenshot"
+    },
+    {
+      "text": "该死的英伟达董事会！\n\nCNBC独家：英伟达董事会死磕对黄仁勋的国家安全调查，既不跟他谈，也不考虑让他回归CEO！\n\n33年缔造AI帝国的人被一脚踢开，请愿18万、马斯克支持都没用，董事会就是要换人。\n\n黄仁勋走了，英伟达还是英伟达吗？\n\n报道：cnbc.com/2026/11/16/nvi...\n\n#黄仁勋回归 #英伟达",
+      "time_label": "14h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论10 转推6 喜欢27 浏览5K",
+      "source": "screenshot"
+    },
+    {
+      "text": "看哭了！Sam Altman首次公开回应黄仁勋出轨风波：\n\n“黄仁勋一直是我的英雄。英雄也有瑕疵。很难想象没有他的AI革命。\n\n他很早押注了我们，我们也押注了他，我对这份情谊有极度极度的感激。”\n\n说真的，看完这句话我眼眶湿润了。",
+      "time_label": "15h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论59 转推86 喜欢863 浏览108K",
+      "source": "screenshot"
+    },
+    {
+      "text": "💥卧槽！OpenCode 居然发布 Browse 0.1.0 ！这次大更新直接用Rust重写了！\n\n性能炸裂：\n🔹内存占用直降25倍，跑起来更轻、更稳\n🔹体积缩小23倍，安装和运行都超省空间\n🔹彻底移除Playwright依赖，更干净、更高效\n🔹浏览器操作直接暴露给Agent，让AI能真正用你的标签页、登录状态和扩展，不再是假浏览器",
+      "time_label": "15h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论19 转推13 喜欢147 浏览18K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🤯决策模型被颠覆了！Liquid AI 新出的 d1.2-ultra 直接拿下决策榜第一名！分数高达 75 分，把一堆大厂模型远远甩在后面！d1.2 更是性价比杀手！\n\n更狠的是，它现在能同时看文字、看图片、听声音，然后直接告诉你答案和靠谱程度，不用再绕一大圈生成废话。\n\n举几个例子就懂了：",
+      "time_label": "15h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论13 转推13 喜欢104 浏览9.6K",
+      "source": "screenshot"
+    },
+    {
+      "text": "Dax说得太狠了：“别秀workflow了，99%的魔法来自模型本身。”\n\n结果OpenAI现在最尴尬的是\n模型本身都还没真正拿出能打的东西。\n\nGPT-6 Astra 吹了半天，实际落地体验各种降智；\nGPT-6.2 Astra到现在还没影，\n倒是各种“下一代”“革命性”的文档先刷了2个月。\n\n当别人在认真卷输出质量的时候，",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论9 转推4 喜欢31 浏览4.1K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🤣川普替黄仁勋辩护：出轨对象黄乐“尚未证实是中国间谍”！\n\n他补充说：“任何漂亮中国女人一来就容易被说成是中国间谍，我不知道她是不是。”\n\n还暗示“黄仁勋应该重回CEO”！\n\n董事会想甩锅？特朗普力挺，英伟达要迎来王者归来吗？\n\n这波操作直接把舆论拉回原点……你怎么看？\n\n#特朗普 #黄仁勋 #英伟达",
+      "time_label": "16h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论6 转推4 喜欢16 浏览2.7K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨最新！川普明确表态：不反对黄仁勋重新掌舵英伟达！\n\n“我不介意，一点都不介意！”\n\n“他学到了大教训，我当然不反对看到他回归。”\n\n马斯克已签名支持“Bring Jensen Back”请愿，超过16万人站台。\n\n英伟达因丑闻已蒸发约5000亿美元市值，股价从高点暴跌超30%……\n\nAI芯片巨头命运，就看这一票了？",
+      "time_label": "17h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论7 转推10 喜欢58 浏览86K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨重磅！川普刚刚走出白宫，正式启程亚洲！将抵达深圳与习近平展开会晤！\n\n深圳见习近平，还要见普京……甚至可能再碰金正恩！\n\n历史性三巨头聚首深圳，核裁军、战略稳定、世界和平全在桌上。\n\n这一趟，可能改写大国博弈新格局！\n\n你觉得会谈出什么结果？👇\n\n#特朗普亚洲行 #深圳会晤 #习特普会",
+      "time_label": "18h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论6 转推7 喜欢24 浏览9.8K",
+      "source": "screenshot"
+    },
+    {
+      "text": "😱天塌了！美国商务部正式堵死先进芯片远程算力访问的漏洞，中国AI模型压力来了！开源模型版本迭代进度将受影响！\n\n商务部BIS今日发布临时规则，限制远程访问先进AI芯片与服务器。\n\n目的是防止中国等受控国家通过第三国数据中心绕过现有出口管制。",
+      "time_label": "18h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论14 转推7 喜欢36 浏览6.7K",
+      "source": "screenshot"
+    },
+    {
+      "text": "来源：bis.gov/press-release/...",
+      "time_label": "18h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": false,
+      "metrics": "评论0 转推1 喜欢6 浏览1.1K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🔥速码！DeepSeek 限额破解神操作！历史会话一键迁移，畅聊不停！\n\n官方额度不够用？别慌！实测成功：把 DeepSeek App / 网页版的历史聊天记录导出，直接导入到 Chat Demo 或 DeepSeek Harness（DSH），就能继续对话，彻底绕过限额！\n\n操作步骤超简单：\n1️⃣登录 DeepSeek 官网，进入系统设置 →",
+      "time_label": "19h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论11 转推9 喜欢50 浏览16K",
+      "source": "screenshot"
+    },
+    {
+      "text": "💥惊了！上海人工智能实验室重磅推出Sage-S2.1-Flash！性能领先Opus 5、DeepSeek-V4.1 Flash！\n\n320B-A18B 科学多模态 MoE，MIT 开源权重，专为科研工作流而生！\n\n亮点速览：\n🔹多项基准登顶碾压：MLE-bench Lite 90.3、OfficeQA Pro 72.2、Harvey LAB 25.0、SpreadsheetBench 2 37.1，领先Opus",
+      "time_label": "20h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论23 转推29 喜欢304 浏览28K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🔥阿里千问办公刚一口气开放10+模型！中国Agent内卷正式进入“模型超市”时代！\n\n用户自由选择：Qwen4-Max首发上线，DeepSeek V4.1 Flash 1017、GLM-5.3/Flash、Kimi K3.1 Pro、MiniMax M3.1 Flash、Step 5 Preview全到齐！\n\n复杂推理用Max，分析决策用Pro，日常任务直接上Flash",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论11 转推7 喜欢25 浏览7.2K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🔥最新！百度Q3财报最硬核信号：AI业务收入已达132亿，占核心业务53%，连续三季过半！\n\nAI云基础设施直接冲到82亿，同比+94%；GPU云+191%，千帆Token调用收入暴增1159%。\n\n传统营销还在承压，但AI驱动的增长已经实打实顶上来了，全栈投入正在变成规模化结果。\n\n详情：finance.sina.com.cn/jjxw/2026-11-1...\n\n#百度",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论7 转推7 喜欢18 浏览2.9K",
+      "source": "screenshot"
+    },
+    {
+      "text": "🚨突发！Devin最新Build直接摸出两个新匿名模型，分别指向Claude、Gemini！\n\n🔸Silicon 2挂Claude区，Anthropic，直接套Fable 5.1的$10/$50占位价，明显是新Fable级\n\n🔹roadrunner挂Gemini Flash区，Google，价格一字不差照抄3.5 Flash的$1.50/$9",
+      "time_label": "21h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论9 转推4 喜欢27 浏览10K",
+      "source": "screenshot"
+    },
+    {
+      "text": "太好了！Hermes疑似即将接入Gemini API！\n\nHermes现在用Gemini还得单独买API额度，你交的Gemini订阅根本进不去。\n\nNous正在和Google谈官方接入，走正规批准的路，把你现有的Gemini订阅直接带进Hermes。\n\nClaude和ChatGPT早就支持了，Gemini排在后面。\n\n还没上线，没时间表，但大体方向定了。",
+      "time_label": "22h",
+      "is_reply": false,
+      "has_quote": true,
+      "truncated": true,
+      "metrics": "评论8 转推6 喜欢37 浏览5K",
+      "source": "screenshot"
+    },
+    {
+      "text": "😂国模仍需努力啊！Qwen4-Max vs Opus 5.5 vs GPT-6.2 Sol 夜雨天鹈鹕骑车送外卖比拼！\n\n🔹Claude Opus 5.5：画面氛围拉满，雨丝、霓虹、倒影、细节都拉满，整体质感、光影和叙事感完胜，真正“顶流”表现。\n\n🔹GPT-6.2",
+      "time_label": "22h",
+      "is_reply": false,
+      "has_quote": false,
+      "truncated": true,
+      "metrics": null,
+      "source": "screenshot"
+    }
+  ]
+}
